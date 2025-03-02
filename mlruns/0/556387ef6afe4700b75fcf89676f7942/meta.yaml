@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/udemycourse/mlflow/mlruns/0/556387ef6afe4700b75fcf89676f7942/artifacts
+end_time: 1740923315863
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 556387ef6afe4700b75fcf89676f7942
+run_name: unleashed-midge-446
+run_uuid: 556387ef6afe4700b75fcf89676f7942
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740923313783
+status: 3
+tags: []
+user_id: krith
